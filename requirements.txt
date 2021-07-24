@@ -1,5 +1,5 @@
-pip install pandas
-pip install numpy 
-pip install librosa
-pip install matplotlib
-pip install scipy
+pandas
+numpy 
+librosa
+matplotlib
+scipy
