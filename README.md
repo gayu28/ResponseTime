@@ -29,8 +29,7 @@ Contains Python code to calculate the response time from audio
          <br />
      > You'll be prompted to enter input file name with format (.wav) and output file name with format(.csv) where you want to store the result as table.
 
-<br />
-Note: Save the input files in the same folder(path) where the above files are present.
-<br />
-Incase of queries, raise an issue [here](https://github.com/gayu28/ResponseTime/issues) or mail at _srigayathri2812@gmail.com_
+   <br />
+   Note: Save the input files in the same folder(path) where the above files are present.
+   Incase of queries, raise an issue [here](https://github.com/gayu28/ResponseTime/issues) or mail at _srigayathri2812@gmail.com_
 
