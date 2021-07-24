@@ -5,7 +5,7 @@ Contains Python code to calculate the response time from audio
   * Python
   * Package Manager: (either of the below)
     * pip [link to install pip](https://pip.pypa.io/en/stable/installing/)
-    * conda [link to install conda] (https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+    * conda [link to install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 ### 1. requirements.txt
    * This file consists of required libraries to be installed before running the below code.
