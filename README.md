@@ -7,7 +7,7 @@ Contains Python code to calculate the response time from audio
     * pip [link to install pip](https://pip.pypa.io/en/stable/installing/)
     * conda [link to install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
    
-> _Download this repository by using the green button **Code** and then **DOWNLOAD ZIP**   
+> _Download this repository by using the green button **Code** and then **DOWNLOAD ZIP**.  
  Head to the ResponseTime folder and follow the below execution steps._
 
 ### 1. requirements.txt
@@ -32,5 +32,5 @@ Contains Python code to calculate the response time from audio
 <br />
 Note: Save the input files in the same folder(path) where the above files are present.
 
-
+Incase of queries, raise an issue [here](https://github.com/gayu28/ResponseTime/issues) or mail to [Gayathri](srigayathri2812@gmail.com)
 
