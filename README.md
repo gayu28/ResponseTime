@@ -2,9 +2,9 @@
 Contains code to calculate the response time from audio 
 
 ## 1. requirements.txt
-   This file consists of required libraries to be installed before running the below files.
-   To execute,
-        enter: '''pip install -r requirements.txt''' 
+   * This file consists of required libraries to be installed before running the below files.
+   * To execute,
+        enter: ```pip install -r requirements.txt``` 
         
 2. visualize.py
     Run this to get visualize the audio in waveform
