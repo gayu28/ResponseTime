@@ -31,6 +31,6 @@ Contains Python code to calculate the response time from audio
 
 <br />
 Note: Save the input files in the same folder(path) where the above files are present.
-
-Incase of queries, raise an issue [here](https://github.com/gayu28/ResponseTime/issues) or mail to [Gayathri](srigayathri2812@gmail.com)
+<br />
+Incase of queries, raise an issue [here](https://github.com/gayu28/ResponseTime/issues) or mail at (srigayathri2812@gmail.com)
 
